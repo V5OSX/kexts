@@ -18,7 +18,7 @@ List Of Folders
     * FakeSMC.kext
     * GPUSensors.kext
     * LPCSensors.kext
-- Network(`Realtek RTL8111`): RealtekRTL8111.kext
+- Network(`Realtek RTL8111`): [RealtekRTL8111.kext](https://bitbucket.org/RehabMan/os-x-realtek-network/downloads/) - update: 2017/03/22
 
 Download
 ========
