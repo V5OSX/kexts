@@ -1,4 +1,4 @@
-Acer V5-573g El Capitan OSX
+Acer V5-573g macOS Sierra
 ===========================
 
 This Repo keeps the needed hardware drivers.
