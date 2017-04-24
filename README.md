@@ -7,7 +7,7 @@ List Of Folders
 ===============
 
 - Audio(`Realtek ALC262`): DummyHDA.kext
-- Battery(`Battery`): ACPIBatteryManager.kext
+- Battery(`Battery`): [ACPIBatteryManager.kext](https://bitbucket.org/RehabMan/os-x-acpi-battery-driver/downloads/) - update: 161118
 - ElanTouchPad(`ElanTouchPad`): ApplePS2SmartTouchPad.kext
 - FakePciId(`Fake HD4400 GPU`): 
     * FakePCIID.kext 
