@@ -11,7 +11,7 @@ List Of Folders
 - ElanTouchPad(`ElanTouchPad`): [ApplePS2SmartTouchPad.kext](http://forum.osxlatitude.com/index.php?/topic/1948-elan-focaltech-and-synaptics-smart-touchpad-driver-mac-os-x/) [link](https://applelife.ru/threads/elan-focaltech-and-synaptics-smart-touchpad-driver-mac-os-x.207992/) - update :Version v4.7 beta 5 (10 - 12 - 2016) (work in progress, available to try from attachments).
 - FakePciId(`Fake HD4400 GPU`): [github](https://github.com/RehabMan/OS-X-Fake-PCI-ID) [download](https://bitbucket.org/RehabMan/os-x-fake-pci-id/downloads/) - update: 20170425
     * FakePCIID.kext      
-    * FakePCIID.kext
+    * FakePCIID_Intel_HD_Graphics.kext
 - [HwSensors(`HWMonitor`)](http://www.hwsensors.com/releases): 
     * ACPISensors.kext
     * ACPISensors.kext
