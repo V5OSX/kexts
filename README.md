@@ -9,6 +9,9 @@ List Of Folders
 - Audio(`Realtek ALC262`): DummyHDA.kext
 - Battery(`Battery`): [ACPIBatteryManager.kext](https://bitbucket.org/RehabMan/os-x-acpi-battery-driver/downloads/) - update: 161118
 - ElanTouchPad(`ElanTouchPad`): [ApplePS2SmartTouchPad.kext](http://forum.osxlatitude.com/index.php?/topic/1948-elan-focaltech-and-synaptics-smart-touchpad-driver-mac-os-x/) [link](https://applelife.ru/threads/elan-focaltech-and-synaptics-smart-touchpad-driver-mac-os-x.207992/) - update :Version v4.7 beta 5 (10 - 12 - 2016) (work in progress, available to try from attachments).
+- FakePciId(`Fake HD4400 GPU`): [github](https://github.com/RehabMan/OS-X-Fake-PCI-ID) [download](https://bitbucket.org/RehabMan/os-x-fake-pci-id/downloads/) - update: 20170425
+    * FakePCIID.kext      
+    * FakePCIID.kext
 - [HwSensors(`HWMonitor`)](http://www.hwsensors.com/releases): 
     * ACPISensors.kext
     * ACPISensors.kext
