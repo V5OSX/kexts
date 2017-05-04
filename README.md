@@ -12,6 +12,7 @@ List Of Folders
 - FakePciId(`Fake HD4400 GPU`): [github](https://github.com/RehabMan/OS-X-Fake-PCI-ID) [download](https://bitbucket.org/RehabMan/os-x-fake-pci-id/downloads/) - update: 20170503
     * FakePCIID.kext      
     * FakePCIID_Intel_HD_Graphics.kext
+    * FakePCIID_XHCIMux.kext (Maybe fix USB Sleep issue)
 - [HwSensors(`HWMonitor`)](http://www.hwsensors.com/releases): update: 6.25.1426
     * ACPISensors.kext
     * ACPISensors.kext
