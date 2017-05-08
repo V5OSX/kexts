@@ -20,6 +20,7 @@ List Of Folders
     * LPCSensors.kext
 - Network(`Realtek RTL8111`): [RealtekRTL8111.kext](https://bitbucket.org/RehabMan/os-x-realtek-network/downloads/) - update: 2017/03/22
 - Usb(`USBInjectAll.kext`): [USBInjectAll.kext](https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/) - update: 2017/01/12
+- Wifi(`BCM43228 802.11n Wireless `): no kext needed.
 
 Download
 ========
